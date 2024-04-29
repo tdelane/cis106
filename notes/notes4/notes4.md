@@ -4,7 +4,7 @@
 
 
 
-## *Wildcard 
+## Wildcard 
 ### Definition 
 The main wildcard is a star, or asterisk (*) character.
 ### Usage 
